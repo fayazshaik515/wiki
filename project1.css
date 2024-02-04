@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width: 50%;
+}
+header{
+    border-bottom: 1px solid green;    
+    padding: 10px;
+}
+nav{
+    border-bottom: 1px solid green;
+    padding: 10px;
+}
+nav span{
+    margin-left: 10px;
+}
+nav span:first-child{
+    border-bottom: 1px solid black;
+}
+.image-mb{
+    float: right;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 10px;
+}
+.content p{
+    margin-bottom: 20px;
+}
+}
